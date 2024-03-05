@@ -253,7 +253,7 @@ h2::before{
     justify-content: space-between;
     
  }
- .home-img img{
+ /*.home-img img{
     width: 35vw;
     animation: floatImage 4s ease-in-out infinite;
 }
@@ -314,7 +314,7 @@ h2::before{
 }
 .home-sci a:hover:before{
     width: 100%;
-}
+}*/
 
 
 /*--------ABOUT-----------*/
@@ -483,7 +483,7 @@ h2::before{
 
 
 
-@media (max-width: 768px)
+/*@media (max-width: 768px)
 {
     .home-img img {
         width: 70vw;
@@ -496,7 +496,7 @@ h2::before{
     }
 }
 
-
+*/
 
 
 @media (max-width: 992px)
